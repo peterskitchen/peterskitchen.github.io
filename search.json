@@ -18,8 +18,8 @@
         {
             "title" : "Kung Pao Chickpeas",
             "url" : "/recipes/kung-pao-chickpeas/",
-            "ingredients" : ["1/2 red onion , chopped","1 red bell pepper , chopped","3 cups cooked chickpeas (or two 15 oz. cans, rinsed and drained)","1/4 cup tamari (gluten-free soy sauce)","2 tablespoons balsamic vinegar (the more syrupy, the better)","2 tablespoons maple syrup","1/2 teaspoon garlic powder (or 2 minced garlic cloves)","1/2 teaspoon ground ginger (or 2 teaspoons fresh minced ginger)","1 teaspoon red pepper flakes","1 teaspoon toasted sesame oil","3 green onions , chopped","sesame seeds , for garnish","Cooked white rice , for serving (or cauliflower rice)"],
-            "tags" : ["Asian 🇮🇹","Vegan 🌱","Favorite ⭐"]
+            "ingredients" : [".5 red onion, chopped","1 red bell pepper, chopped","3 cups cooked chickpeas (or two 15 oz. cans, rinsed and drained)",".25 cup tamari (gluten-free soy sauce)","2 tablespoons balsamic vinegar (the more syrupy, the better)","2 tablespoons maple syrup",".5 teaspoon garlic powder (or 2 minced garlic cloves)",".5 teaspoon ground ginger (or 2 teaspoons fresh minced ginger)","1 teaspoon red pepper flakes","1 teaspoon toasted sesame oil","3 green onions, chopped","sesame seeds, for garnish","cooked white rice, for serving (or cauliflower rice)"],
+            "tags" : ["Asian","Vegan 🌱","Favorite ⭐"]
         },
     
         {
@@ -27,6 +27,13 @@
             "url" : "/recipes/simple-brownies/",
             "ingredients" : ["225g butter (preferably unsalted)","450g caster sugar","140g dark chocolate broken into pieces","5 free-range medium eggs","110g plain flour","55g cocoa powder"],
             "tags" : ["Sweet 🍬","Cake 🍰","Vegetarian 🌿","Sharable","Favorite ⭐"]
+        },
+    
+        {
+            "title" : "Harissa Chickpeas",
+            "url" : "/recipes/harissa-chickpeas/",
+            "ingredients" : ["2 teaspoons oil","1 medium onion thinly sliced (about 1.5 cups)","1 teaspoon balsamic vinegar",".5 teaspoon salt or more to taste, divided","1 tablespoon garlic paste or 4 cloves of garlic, minced","1 teaspoon smoked paprika","2 tablespoons harissa paste",".5 teaspoon dried oregano","2 cups (80 g) of chopped leafy greens of choice such as Swiss chard, spinach, mustard greens, etc","15 ounce (425.24 g) can of chickpeas drained or 1.5 cups cooked chickpeas or other white beans","1 cup (236.59 ml) full fat coconut milk or coconut cream (use the entire can if you like it more saucy)","lemon juice, cilantro, and black pepper, for garnish"],
+            "tags" : ["Vegan 🌱","Favorite ⭐"]
         }
     
 ]

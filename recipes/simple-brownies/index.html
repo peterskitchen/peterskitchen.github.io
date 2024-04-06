@@ -223,15 +223,15 @@
                 </div>
 
                 <div class="c-recipe__instructions-wrapper u-free-text">
-                    
-                        <p>Source : <a href="https://www.bbc.co.uk/food/recipes/richchocolatebrownie_1933/" target="_blank" rel="noopener">BBC good food</a></p>
-                    
                     <p>Heat the oven to 190C/170C Fan/Gas 5. Line a 20x30cm baking tin with baking paper.</p>
 <p>Gently melt the butter and the sugar together in a large pan. Once melted, take off the heat and add the chocolate. Stir until melted.</p>
 <p>Beat in the eggs, then stir in the flour and the cocoa powder.</p>
 <p>Pour the brownie batter into the prepared tin and bake for 30–35 minutes, or until the top of the brownie is just firm but there is still a gentle wobble in the middle.</p>
 <p>Take out of the oven and leave to cool in the tin. Cut the brownies into 5cm squares when only just warm, or completely cool.</p>
 
+                    
+                        <p>Source : <a href="https://www.bbc.co.uk/food/recipes/richchocolatebrownie_1933/" target="_blank" rel="noopener">BBC good food</a></p>
+                    
                 </div>
             </div>
         </div>
@@ -239,8 +239,8 @@
 
     <script>
         function adaptQuantity (ingredient, originalServings, currentServings) {
-            return ingredient.replace(/(\d|\.|,)+/, match => Number(Math.round(parseFloat(match.replace(',', '.')) * currentServings / originalServings + 'e' + 2) + 'e-' + 2));
-        }
+            return ingredient.replace(/(\d|\.|,)+/, match => Number(Math.round(parseFloat(match) * currentServings / originalServings + 'e' + 2) + 'e-' + 2));
+            }
     </script>
 
     </main>
