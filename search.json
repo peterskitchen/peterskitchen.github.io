@@ -34,6 +34,20 @@
             "url" : "/recipes/harissa-chickpeas/",
             "ingredients" : ["2 teaspoons oil","1 medium onion thinly sliced (about 1.5 cups)","1 teaspoon balsamic vinegar",".5 teaspoon salt or more to taste, divided","1 tablespoon garlic paste or 4 cloves of garlic, minced","1 teaspoon smoked paprika","2 tablespoons harissa paste",".5 teaspoon dried oregano","2 cups (80 g) of chopped leafy greens of choice such as Swiss chard, spinach, mustard greens, etc","15 ounce (425.24 g) can of chickpeas drained or 1.5 cups cooked chickpeas or other white beans","1 cup (236.59 ml) full fat coconut milk or coconut cream (use the entire can if you like it more saucy)","lemon juice, cilantro, and black pepper, for garnish"],
             "tags" : ["Vegan 🌱","Favorite ⭐"]
+        },
+    
+        {
+            "title" : "Sweet Potato Curry",
+            "url" : "/recipes/sweet-potato-curry/",
+            "ingredients" : ["4 cups small diced sweet potato","1 cup quinoa, rinsed","1 cup brown lentils","1 (15 ounce) can of beans (black, pinto, etc) [optional]","1 yellow onion, diced","1 (15 ounce) can coconut milk","4 cups vegetable broth","2 teaspoons curry powder","1 teaspoon salt","1 teaspoon ground ginger","1 teaspoon ground corriander","1 teaspoon granulated garlic",".5 teaspoon black pepper"],
+            "tags" : ["Curry","Vegan 🌱","Favorite ⭐"]
+        },
+    
+        {
+            "title" : "Pickled Red Onions",
+            "url" : "/recipes/pickled-red-onions/",
+            "ingredients" : [".67 tablespoons salt per cup of pickling liquid","1 cup of water","1 cup of vinegar","desired add-ins"],
+            "tags" : ["Condiment","Vegan 🌱","Favorite ⭐"]
         }
     
 ]
